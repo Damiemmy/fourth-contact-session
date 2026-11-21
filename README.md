@@ -50,7 +50,7 @@ student-score-linear-regression/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-score-linear-regression.git
+git clone https://github.com/Damiemmy/fourth-contact-session.git
 cd student-score-linear-regression
 ```
 
