@@ -1,0 +1,12 @@
+LINEAR REGRESSION RESULTS
+Observations: 25
+Training observations: 20
+Testing observations: 5
+
+Regression equation: Score = 2.827 + (9.682 x Hours)
+MAE: 3.9208
+MSE: 18.9432
+RMSE: 4.3524
+R-squared: 0.9678 (96.78%)
+
+Caution: the test set contains only five observations, so interpret the evaluation metrics cautiously.
